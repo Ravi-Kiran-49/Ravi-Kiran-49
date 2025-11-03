@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Ravi-Kiran-49/Ravi-Kiran-49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi Developers 👋!</h2>
 
-Here are some ideas to get you started:
+I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 **Technologies & Tools**
+
+#### 🚀 **Backend Skills**
+- **Languages**: Java, Spring Framework, Spring Boot, Hibernate, Microservices
+- **APIs**: RESTful APIs
+- **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
+
+#### 🎨 **Frontend Skills**
+- **Frameworks/Libraries**: React, Angular, Next.js
+- **Languages**: HTML, CSS, JavaScript
+
+#### 🛠 **DevOps Skills**
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, CI/CD pipelines
+- **Cloud Platforms**:
+  - **AWS Services**: 
+    - EC2 (Elastic Compute Cloud)
+    - ECS (Elastic Container Service)
+    - ECR (Elastic Container Registry)
+    - EKS (Elastic Kubernetes Service)
+    - S3 (Simple Storage Service)
+    - RDS (Relational Database Service)
+    - CodeBuild
+    - CloudFormation
+    - AWS Lambda
+    - IAM (Identity and Access Management)
+- **Other Tools**: JFrog, Prometheus, Grafana
+
+#### ⚡ **Apache Tools**
+- **Apache Kafka**: Distributed streaming platform for building real-time data pipelines and streaming applications.
+- **Apache Camel**: Integration framework for routing and mediation rules, enabling communication between different systems.
+- **Apache JMeter**: Performance testing tool for web applications, APIs, and other services.
+
+
