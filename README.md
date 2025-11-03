@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi Developers 👋!</h2>
 
-I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions.
+I’m a passionate Java Full Stack Developer with expertise in High-Level and Low-Level Design (HLD/LLD), design patterns, and strong problem-solving abilities. Along with my development skills, I have been actively practicing data structures and algorithms on LeetCode, achieving strong performance in various contests and continuously improving my coding proficiency.
 
 ---
 
